@@ -5,7 +5,7 @@ import pandas as pd
 app = Dash(__name__)
 
 app.layout = html.Div([
-    html.H1(children='Hello World 😁😊👍,', style={'textAlign': 'center'})
+    html.H1(children='Hello World and everyone! 😁😊👍', style={'textAlign': 'center'})
 ])
 
 if __name__ == '__main__':
